@@ -1,0 +1,7 @@
+There are a few things in this app that can be improved, please see if you can complete the following:
+
+- Change the "Delete" action to be called "Complete"✔ and change the colour to green
+- Capitalise the fields correctly when creating a new todo✔
+- Add an icon to the app✔
+- Add an UIAlertViewController when cancelling the creation of a todo and some text has been added✔
+- Disable the save button until some text has been added on the todo creation screen✔
